@@ -1,8 +1,4 @@
-'''
-COM231 - Atividade Prática 01
-Nome: João Vitor de Faria
-Matrícula: 2019006030
-'''
+
 from decimal import *
 from modelM import *
 from datetime import datetime
